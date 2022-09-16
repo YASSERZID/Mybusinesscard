@@ -1,0 +1,8 @@
+# Created by https://www.toptal.com/developers/gitignore/api/forgegradle
+# Edit at https://www.toptal.com/developers/gitignore?templates=forgegradle
+
+### ForgeGradle ###
+# Minecraft client/server files
+run/
+
+# End of https://www.toptal.com/developers/gitig
